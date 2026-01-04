@@ -16,5 +16,7 @@ public class Habilidade {
 	private Integer tierMax;
 	private Integer tierCusto;
 //	private ArrayList<Efeitos> alguma coisa
+	
+	
 
 }

@@ -6,7 +6,6 @@ import dmkraken.model.CombinacaoElemental;
 import dmkraken.model.enume.Elementos;
 import dmkraken.model.enume.SubElementos;
 
-//TODO aplicar singleton
 public class FusaoElemental {
 	
 	private ArrayList<CombinacaoElemental> combinacaoElementalList;
